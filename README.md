@@ -8,10 +8,6 @@
 <p></p>
 </h2>
 
-Natural Language Processing es un juego clásico, donde el jugador usando las flechas del teclado debe rebotar una pelota para romper los ladrillos dispuestos en la parte superior. El objetivo principal del juego es destruir todos los ladrillos usando la pelota y evitar que la pelota caiga al suelo.
+En este artículo se presentarán algunos conceptos básicos en PNL y se mostrará cómo implementar un modelo simple para comparar la similitud entre los resúmenes de películas utilizando las bibliotecas scikit-learn y NLTK.
 
-## 👩‍💻 Maintainers
-* Colque Gabriela
-* Jiménez Joel
-* Ricapa Rubén
-* Ulloa Ricardo
+
