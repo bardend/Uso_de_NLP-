@@ -1,5 +1,5 @@
 <h2 align="center">
-<p>Natural Language Processing ⚫🧱</p>
+<p>Natural Language Processing ⚫</p>
 </h2>
 
 <h2 align="center">
