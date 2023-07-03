@@ -8,6 +8,6 @@
 <p></p>
 </h2>
 
-En este artículo se presentarán algunos conceptos básicos en PNL y se mostrará cómo implementar un modelo simple para comparar la similitud entre los resúmenes de películas utilizando las bibliotecas scikit-learn y NLTK.
+En este artículo se presentarán algunos conceptos básicos en PNL y se mostrará cómo implementar un modelo para comparar la similitud entre los resúmenes de películas utilizando las bibliotecas scikit-learn y NLTK.
 
 
